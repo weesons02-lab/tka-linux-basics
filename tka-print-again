@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+touch hello2.txt
+echo "hello world" > hello2.txt
+
