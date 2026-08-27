@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+mkdir ~/tka-linux-basics/etc/passwd
+cd ~/tka-linux-basics/etc/passwd
